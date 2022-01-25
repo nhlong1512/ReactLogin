@@ -10,7 +10,7 @@ function LoginForm({ Login, error }) {
   }
 
   return (
-    <form className="w-full max-w-sm mt-6 flex mx-auto flex-col">
+    <form className="w-full max-w-sm mt-6 flex mx-auto flex-col p-[16px]">
       <div className="md:flex md:items-center mb-6">
         <div className="md:w-1/3">
           <label className="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4" htmlFor="inline-full-name">
